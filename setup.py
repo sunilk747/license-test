@@ -25,7 +25,7 @@ setup(
     author='Ravindra Ratnawat',
     author_email="ravindra@redhat.com",
     license='APACHE 2.0',
-    url='https://github.com/fabric8-analytics/fabric8-analytics-rudra',
+    url='https://github.com/sunilk747/license-test',
     keywords=['Fabric8-Analytics', 'Machine-Learning', 'Utility'],
     python_requires='>=3.4',
     packages=find_packages(exclude=['tests']),
