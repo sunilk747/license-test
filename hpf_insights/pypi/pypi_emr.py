@@ -1,4 +1,4 @@
-iimport daiquiri
+import daiquiri
 import logging
 
 daiquiri.setup(level=logging.DEBUG)
